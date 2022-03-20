@@ -12,12 +12,8 @@
          "patterns": ["Thanks", "Thank you", "That's helpful","Thank you so much","Thank you very much","I appreciate it"],
          "responses": ["Happy to help!", "Any time!", "My pleasure."]
         },
-        {"tag": "opentoday",
-         "patterns": ["Are you open today?", "When do you open today?", "What are your hours today?","What are opening hours for the closest pickup center?"],
-         "responses": ["Here are the opening hours for period product pickup locations near you."]
-        },
         {"tag": "FindLocation",
-                "patterns": ["Where are distribution centres near me?", "closest donation centre?", "pick-up centres near me?","period products near me?", "menstrual products","free period products.","menstrual products.","free pads near me?", "get tampons close to my location?", "Are there free period cups near me?","Menstruation product pickup","pickup locations open right now near me?","Women's health product","Feminine hygiene product"],
+                "patterns": ["Where are distribution centres near me?", "closest donation centre?", "pick-up centres near me?","where are period products near me?", "menstrual products","free period products.","menstrual products.","free pads near me?", "get tampons close to my location?", "Are there free period cups near me?","Menstruation product pickup","pickup locations open right now near me?","Women's health product","Feminine hygiene product"],
                 "responses": ["This is the pick-up location closest to you: "]
         }
    ]
